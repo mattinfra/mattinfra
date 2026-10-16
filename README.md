@@ -1,18 +1,40 @@
-<h1 align="center">Hi 👋, I'm Matteo</h1>
-<h3 align="center">🚀 DevOps Engineer & Solutions Architect based in Italy</h3>
+# Matteo | Cloud & Application Security Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matteodev10&label=Profile%20views&color=0e75b6&style=flat" alt="matteodev10" /> </p>
+Software engineer turned security engineer, based in Italy. I build and secure cloud-native platforms in regulated environments (banking, digital identity, anti-fraud), and I lead small technical teams.
 
-💼 **Current Focus**: Designing and implementing robust **Anti-Fraud Architectures** <br/>
-📚 **Expanding My Toolbox**: Mastering **Python, AWS**, and the world of **Security in Cloud Computing** <br/>
-🎯 **Experience That Counts**: 8+ years crafting scalable and secure software solutions <br/>
-⚡ **Fun Fact**: I turn complex systems into elegant, automated pipelines <br/>
+## What I do
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **Cloud & container security**: AWS (IAM, KMS, VPC, EKS), Kubernetes/OpenShift, security guardrails as code
+- **Identity & access**: OAuth2/OIDC integration, FIDO2/passkeys, PKI and digital signature operations
+- **DevSecOps**: secure CI/CD pipelines, SAST/SCA, artifact management, vulnerability management
+- **Secure architecture**: event-driven systems (Kafka), real-time and batch data pipelines, anti-fraud integration platforms
+- **Technical leadership**: planning and estimation, stakeholder communication, mentoring, technical interviews
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matteodev10/matteodev10/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matteodev10/matteodev10/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/matteodev10/matteodev10/output/github-snake.svg" />
-</picture>
+## Background
+
+9 years in software and cloud engineering, the last 2+ focused on security. Before that, backend and cloud work (Java, Python, .NET) on large logistics, port and e-commerce systems, so I understand how security decisions affect real delivery.
+
+## Currently
+
+- Deepening AWS security (multi-account governance, KMS, detection and response)
+- Hardening Kubernetes/EKS and software supply chain (SBOM, image signing)
+- Exploring security for AI systems and autonomous agents (OWASP LLM Top 10)
+- Improving my spoken English for technical discussions
+
+## Tech stack
+
+**Languages & frameworks:** Java, Spring Boot, Python, C#, .NET
+**Cloud & containers:** AWS (EKS, Lambda, EC2, VPC, IAM, KMS, S3), GCP, Azure, OpenShift, Docker, Kubernetes
+**IaC & CI/CD:** Terraform, Jenkins, GitHub Actions, SonarQube, JFrog
+**Messaging & data:** Kafka, PostgreSQL, MongoDB, MSSQL, Oracle
+**Observability:** Prometheus, Grafana, Splunk, CloudWatch
+
+## Selected work (public)
+
+_Repositories pinned below. Client and employer details are kept private._
+
+- (in progress) Secure EKS baseline with Terraform: RBAC, network policies, admission control
+- (in progress) CI/CD pipeline with SAST, SCA, SBOM and image signing
+- (in progress) Threat model example: passkey-based login flow
+
+## Let's connect
